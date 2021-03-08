@@ -1,0 +1,17 @@
+.rpsContainer{
+    border: 1px solid black;
+    width: 75%;
+    margin: 0 auto;
+    text-align: center;
+}
+.flex-box-rpsGame{
+    display: flex;
+    border: 1px solid black;
+    padding: 10px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.flex-box-rpsGame img{
+    box-shadow: 0px 10px 50px rgb(9, 4, 51);
+}
